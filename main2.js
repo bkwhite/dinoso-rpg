@@ -206,7 +206,4 @@ function main_loop(count) {
     document.write(imgStr); document.close();
 }
 
-main_loop(500);
-
-
-
+main_loop(1);
